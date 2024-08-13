@@ -1,4 +1,4 @@
-# FurniSwipe
+# DecoSwipe
 
 FurniSwipe is an AI-powered furniture recommendation app that helps users find home décor items that match their style by swiping through various options. The app uses machine learning to provide personalized suggestions based on user preferences.
 
